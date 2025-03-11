@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programation\\PRATIQUE\\C#\\Reduire Agrandir Sortir\\windowTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658BC73A-40CC-4B68-AB1B-9A6DD4E4CAD0}|windowTool\\windowTool.csproj|d:\\programation\\pratique\\c#\\reduire agrandir sortir\\windowtool\\windowtool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{658BC73A-40CC-4B68-AB1B-9A6DD4E4CAD0}|windowTool\\windowTool.csproj|solutionrelative:windowtool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658BC73A-40CC-4B68-AB1B-9A6DD4E4CAD0}|windowTool\\windowTool.csproj|d:\\programation\\pratique\\c#\\reduire agrandir sortir\\windowtool\\windowtool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658BC73A-40CC-4B68-AB1B-9A6DD4E4CAD0}|windowTool\\windowTool.csproj|solutionrelative:windowtool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Programation\\PRATIQUE\\C#\\Reduire Agrandir Sortir\\windowTool\\windowTool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "windowTool\\MainWindow.xaml",
+              "ToolTip": "D:\\Programation\\PRATIQUE\\C#\\Reduire Agrandir Sortir\\windowTool\\windowTool\\MainWindow.xaml",
+              "RelativeToolTip": "windowTool\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-07T10:55:48.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programation\\PRATIQUE\\C#\\Reduire Agrandir Sortir\\windowTool\\windowTool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "windowTool\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Programation\\PRATIQUE\\C#\\Reduire Agrandir Sortir\\windowTool\\windowTool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "windowTool\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:55:47.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
